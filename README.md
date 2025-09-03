@@ -24,4 +24,4 @@ Backend: PHP
 Database: MySQL
 
 🎯 Goal:
-To provide a dynamic, user-friendly platform for publishing and managing news articles, ideal for learning CRUD operations, session handling, and frontend-backend integration.
+To provide a dynamic, user-friendly platform for publishing and managing news articles, ideal for CRUD operations, session handling, and frontend-backend integration.
