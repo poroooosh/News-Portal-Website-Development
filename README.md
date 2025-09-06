@@ -1,27 +1,38 @@
-📰 News Portal – HTML, PHP, CSS, JavaScript
-A fully functional news portal web application built using HTML, CSS, JavaScript, and PHP. This project allows users to browse, search, and read news articles by category, while admins can manage news content from a dedicated dashboard.
+# 📰 News Portal  
 
-✨ Features:
+A fully functional web-based application built using **HTML, CSS, JavaScript, and PHP** that allows users to browse, search, and read categorized news articles. Admins can manage content efficiently through a secure dashboard, making it an ideal project for CRUD operations and frontend-backend integration.  
 
-🗂 Category-based News: Organize and display news by category (Politics, Sports, Technology, etc.)
+---
 
-🔍 Search Functionality: Quickly find news articles by title or keyword
+## 🚀 Features  
+- 🗂 Category-based news display (Politics, Sports, Technology, etc.)  
+- 🔍 Search functionality to quickly find articles by title or keyword  
+- 📰 Responsive, mobile-friendly UI  
+- 🔑 Admin panel with secure login for content management  
+- ✏️ Create, edit, and delete news articles  
+- 📅 Automatic date & time display with each article  
+- 💾 MySQL database integration for storing and retrieving news  
 
-📰 Responsive UI: Clean and mobile-friendly design using CSS
+---
 
-🔑 Admin Panel: Secure login, create/edit/delete articles
+## 🛠️ Technologies Used  
+- 🌐 **HTML, CSS, JavaScript** → Frontend design & interactivity  
+- ⚙️ **PHP** → Backend development  
+- 🗄️ **MySQL** → Database management  
 
-📅 Automatic Date & Time: Display current date with each article
+---
 
-💾 Database Integration: Store and retrieve news from a MySQL database
+## 📂 Project Structure  
+- 📄 `index.php` → Homepage displaying latest news  
+- 📄 `category.php` → View news by category  
+- 📄 `search.php` → Search functionality  
+- 📄 `article.php` → Detailed news article page  
+- 📄 `admin/login.php` → Secure admin login  
+- 📄 `admin/dashboard.php` → Admin panel for managing articles  
+- 📄 `config.php` → Database connection file  
+- 📄 `style.css` → Application styling  
 
-🔧 Tech Stack:
+---
 
-Frontend: HTML, CSS, JavaScript
-
-Backend: PHP
-
-Database: MySQL
-
-🎯 Goal:
-To provide a dynamic, user-friendly platform for publishing and managing news articles, ideal for CRUD operations, session handling, and frontend-backend integration.
+## 🎯 Goal  
+To provide a dynamic, user-friendly platform for publishing and managing news articles, while demonstrating CRUD operations, session handling, and frontend-backend integration.  
