@@ -7,7 +7,7 @@ A fully functional web-based application built using **HTML, CSS, JavaScript, an
 ## 🚀 Features  
 - 🗂 Category-based news display (Politics, Sports, Technology, etc.)  
 - 🔍 Search functionality to quickly find articles by title or keyword  
-- 📰 Responsive, mobile-friendly UI  
+- 📰 Responsive, user-friendly UI  
 - 🔑 Admin panel with secure login for content management  
 - ✏️ Create, edit, and delete news articles  
 - 📅 Automatic date & time display with each article  
